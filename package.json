@@ -1,0 +1,12 @@
+{
+  "name": "Lab2_lodash",
+  "version": "1.0.0",
+  "description": "Lab 2 Web",
+  "main": "index.js",
+  "author": "Diego Alvarez",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "webpack": "^4.41.5"
+  }
+}
